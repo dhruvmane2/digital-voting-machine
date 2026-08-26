@@ -1,1 +1,12 @@
+DIGITAL VOTING MACHINE TEST
 
+FINAL RESULTS
+
+Candidate 1 = 2 votes
+Candidate 2 = 3 votes
+Candidate 3 = 1 votes
+Candidate 4 = 2 votes
+
+7-Segment output = 1101101
+
+Simulation completed successfully.
